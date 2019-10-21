@@ -8,9 +8,9 @@ lie between 00:00 and 23:59. If user does not provide any input, program will co
 A program that counts the vowels in a word that user enters in a textbox. For example, If user enters elephant the program will display 3.  
 <b>2- examAnswer.zip</b> <br>
 Program consist of tre parts (a, b and c).<br>
-<ol>
+<ul>
 <li>a: User enters time in hours and minutes in two different textboxes and program will produce an output like HH:MM<li>
 <li>b: User has the possibility to increase previously entered time by hours and minuts. Program will produce en updated time. </li> 
   
 
-</ol>
+</ul>
