@@ -7,10 +7,11 @@ lie between 00:00 and 23:59. If user does not provide any input, program will co
 <b>2- CountVowels.zip</b> <br>
 A program that counts the vowels in a word that user enters in a textbox. For example, If user enters elephant the program will display 3.  
 <b>2- examAnswer.zip</b> <br>
-Program consist of tre parts.<br>
+Program consist of tre parts (a, b and c).<br>
 <ol>
-<li> this</li>
-  <li> this</li>
-  <li> this</li>
+<li>a
+  <li>In this part</li>
+  </li>
+  
 
 </ol>
