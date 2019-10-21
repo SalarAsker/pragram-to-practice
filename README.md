@@ -5,4 +5,12 @@ Program will ask the user to enter time in the 24-hour time format. Program will
 lie between 00:00 and 23:59. If user does not provide any input, program will consider it as invalid time.
 
 <b>2- CountVowels.zip</b> <br>
-A program that counts the vowels in a word that user enters in a textbox.If user enter elephant the program will display 3.  
+A program that counts the vowels in a word that user enters in a textbox. For example, If user enters elephant the program will display 3.  
+<b>2- examAnswer.zip</b> <br>
+Program consist of tre parts.<br>
+<ol>
+<li> this</li>
+  <li> this</li>
+  <li> this</li>
+
+</ol>
