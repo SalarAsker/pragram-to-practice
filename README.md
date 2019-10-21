@@ -9,9 +9,8 @@ A program that counts the vowels in a word that user enters in a textbox. For ex
 <b>2- examAnswer.zip</b> <br>
 Program consist of tre parts (a, b and c).<br>
 <ol>
-<li>a
-  <li>In this part</li>
-  </li>
+<li>a: User enters time in hours and minutes in two different textboxes and program will produce an output like HH:MM<li>
+<li>b: User has the possibility to increase previously entered time by hours and minuts. Program will produce en updated time. </li> 
   
 
 </ol>
